@@ -41,10 +41,6 @@ Dataset: Customer reviews dataset (ba_reviews.csv)
 🔍 How to Use
 
 📥 Download and Explore
-
-Clone the repository:
- git clone https://github.com/yourusername/british-airways-reviews.git
-
 Open the dataset (ba_reviews.csv) in your preferred analysis tool (Excel, Python, or Tableau).
 
 Load the Tableau Workbook (British Airways Reviews.twbx) to explore the interactive dashboard.
